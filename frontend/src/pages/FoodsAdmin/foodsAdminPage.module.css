@@ -12,7 +12,7 @@
 
 a.add_food {
   display: inline-block;
-  background: darkred;
+  background: rgb(235, 2, 165);
   color: white;
   padding: 0.7rem;
   margin: 0.8rem 0;
@@ -45,6 +45,6 @@ a.add_food:hover {
 
 .actions > a {
   margin-right: 1rem;
-  color: darkblue;
+  color: rgb(226, 10, 208);
   cursor: pointer;
 }

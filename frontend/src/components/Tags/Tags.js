@@ -7,7 +7,7 @@ export default function Tags({ tags, forFoodPage }) {
     <div
       className={classes.container}
       style={{
-        justifyContent: forFoodPage ? 'start' : 'center',
+        justifyContent: forFoodPage ? 'start' : 'left',
       }}
     >
       {tags.map(tag => (

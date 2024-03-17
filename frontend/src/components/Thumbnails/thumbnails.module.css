@@ -1,4 +1,4 @@
-.list {
+  .list {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,7 +16,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: #e72929;
+  color: #fb07f7;
 }
 
 .image {
@@ -57,7 +57,7 @@
   background-color: whitesmoke;
   display: inline-block;
   font-size: 0.8rem;
-  color: grey;
+  color: rgb(250, 13, 214);
   margin-right: 0.3rem;
   padding: 0 0.5rem;
   margin-top: 0.2rem;
@@ -79,7 +79,7 @@
   left: 0.9rem;
   background-color: white;
   padding: 0.3rem 100% 0 0;
-  color: #414141;
+  color: #f605ae;
   margin-top: 0.7rem;
   font-size: 1.1rem;
 }

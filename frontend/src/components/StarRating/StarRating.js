@@ -5,6 +5,7 @@ export default function StarRating({ stars, size }) {
     width: size + 'px',
     height: size + 'px',
     marginRight: size / 6 + 'px',
+  
   };
 
   function Star({ number }) {

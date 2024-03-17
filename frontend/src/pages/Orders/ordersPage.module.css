@@ -16,14 +16,14 @@
   justify-content: space-around;
   align-items: center;
   height: 3rem;
-  border: 1px solid whitesmoke;
+  border: 1px solid rgb(251, 1, 193);
   font-size: 1.1rem;
   margin-top: 1rem;
   border-radius: 1rem;
 }
 
 .all_status a {
-  color: grey;
+  color: rgb(247, 3, 162);
   width: 100%;
   height: 100%;
   border-radius: 1rem;
@@ -34,8 +34,8 @@
 
 .all_status a.selected,
 .all_status a:hover {
-  color: white;
-  background-color: black;
+  color: rgb(255, 255, 255);
+  background-color: rgb(171, 7, 241);
   opacity: 0.8;
 }
 
@@ -56,7 +56,7 @@
   justify-content: space-between;
   border-bottom: 1px solid whitesmoke;
   border-radius: 1rem 1rem 0 0;
-  color: grey;
+  color: rgb(233, 3, 187);
 }
 
 .items {
@@ -81,7 +81,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  border-top: 1px solid whitesmoke;
+  border-top: 1px solid rgb(233, 4, 254);
   border-radius: 0 0 1rem 1rem;
 }
 .price {
