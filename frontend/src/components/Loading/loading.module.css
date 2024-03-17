@@ -10,18 +10,17 @@
 
 .items {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 80%;
-  width: 100%;
+  height: 100vh; /* 100% of the viewport height */
 }
 
-.container img {
-  border-bottom: 10px solid brown;
+.svg {
+  width: 100px; /* Set your desired width */
+  height: 100px; /* Set your desired height */
+  /* You can also add any additional styling for the SVG */
 }
 
-.container h1 {
-  color: brown;
-  text-transform: lowercase;
-}
+
+
+
