@@ -65,6 +65,18 @@ export const sample_foods = [
     tags: ['FastFood', 'Pizza', 'Lunch'],
     category: 'veg'
   },
+  {
+    name: "Chocolate Lava Cake",
+    price: 10,
+    cookTime: "20-25",
+    favorite: true,
+    origins: ["France"],
+    stars: 4.5,
+    imageUrl: "food-7.jpg",
+    tags: ["Dessert", "Chocolate", "Cake"],
+    category: "dessert"
+  }
+  
 ];
 
 export const sample_tags = [
